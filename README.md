@@ -1,2 +1,2 @@
 # CodeSamples
-Example projects for colaberation.
+Example projects for collaberation.
